@@ -22,11 +22,15 @@ Complete la tabla:
 
 | Integrante | github nick |
 |------------|-------------|
-|Crisitan Danilo Ramirez Vargas            | rvcristiand            |
+| Crisitan Danilo Ramirez Vargas | [rvcristiand](https://github.com/rvcristiand) |
 
 ## Discusión
 
+### Anti-aliasing
 Describa los resultados obtenidos. Qué técnicas de anti-aliasing y shading se exploraron? Adjunte las referencias. Discuta las dificultades encontradas.
+
+### Shading
+
 
 ## Entrega
 
