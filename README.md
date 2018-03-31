@@ -22,7 +22,7 @@ Complete la tabla:
 
 | Integrante | github nick |
 |------------|-------------|
-|            |             |
+|Crisitan Danilo Ramirez Vargas            | rvcristiand            |
 
 ## Discusión
 
