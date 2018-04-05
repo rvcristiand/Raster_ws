@@ -19,7 +19,7 @@ Implemente la función ```triangleRaster()``` del sketch adjunto para tal efecto
 | Integrante | github nick |
 |------------|-------------|
 | Crisitan Danilo Ramirez Vargas | [rvcristiand](https://github.com/rvcristiand) |
-| Edward Camilo Carrillo Estupinan  | [eccarrilloe] (https://github.com/eccarrilloe) |
+| Edward Camilo Carrillo Estupinan  | [eccarrilloe](https://github.com/eccarrilloe) |
 
 ## Discusión
 
